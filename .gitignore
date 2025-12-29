@@ -2,3 +2,4 @@
 venv/
 terminal_test.py
 node_modules/
+logs/
